@@ -7,6 +7,10 @@ body{
     font-family: sans-serif;
     background-color: papayawhip;
 }
+.navbar a{
+    text-decoration: none;
+    color: inherit;
+}
 .navbar{
     display: flex;
     align-items: center;
@@ -63,4 +67,7 @@ padding-right: 25px;
     height: 20px;
     top: 34px;
     left: 80px;
+}
+.fa{
+    color: orangered;
 }
